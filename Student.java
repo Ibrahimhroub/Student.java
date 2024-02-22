@@ -1,4 +1,5 @@
 public class Student {
+    int x= 0;
     private String name;
     private int studentNum;
     private Address studentAddress;
